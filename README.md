@@ -1,4 +1,3 @@
-<img width="1918" height="611" alt="image" src="https://github.com/user-attachments/assets/9cce81ea-5af8-423e-8960-fd5258f0457a" /># 19AI304-Fundamentals-of-C-Programming-2025-Odd-M3
 # IAPR-3- Module 3 - FoC
 ## 5. Implementation of one-dimensional array and multidimensional array.
 ## 6. Implementation of string manipulation.
